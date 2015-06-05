@@ -1,0 +1,40 @@
+.DarkRed {
+	background-color: #A34B5E;
+	color: #F7F5EC;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-family: Arial;
+	width: 30%;
+	height: 40px;
+}
+.LightRed {
+	margin-left: -4px;
+	background-color: #F76668;
+	color: #F7F5EC;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-family: Arial;
+	width: 30%;
+	height: 40px;
+}
+.DarkGreen {
+	background-color: #C6DE64;
+	color: #F7F5EC;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-family: Arial;
+	width: 30%;
+	height: 40px;
+}
+.LightGreen {
+	margin-left: -4px;
+	background-color: #8A9A49;
+	color: #F7F5EC;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-family: Arial;
+	width: 30%;
+	height: 40px;
+}
+
+
